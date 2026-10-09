@@ -18,10 +18,12 @@
 | SQL & Databases | T-SQL / MSSQL, PostgreSQL, MySQL |
 | BI & Analytics | Power BI, DAX, Power Query, Excel, Tableau |
 | NoSQL | MongoDB |
-| Programming & Tools | Python (Pandas), Git, GitHub |
+| Programming & Tools | Python (Pandas), Git, GitHub, Docker (Compose) |
 
-## Featured project
+## Featured projects
 
+- **[Duty Rotation Scheduler (T-SQL)](https://github.com/Hakansatir/duty-rotation-scheduler-tsql)** — SQL Server 2022 · T-SQL · Docker Compose · v1.0  
+  Leave-aware 12-month on-call rotation with stored procedures, functions and test scripts for the key business rules — a rebuild of my internship solution.
 - **[Customer Segmentation & Sales Analytics Dashboard](https://github.com/Hakansatir/customer-segmentation-sales-analytics-power-bi)** — Power BI · DAX · Power Query · RFM
 
 <!-- Add new projects here only when they are published. Mark unfinished ones as "in progress". -->
